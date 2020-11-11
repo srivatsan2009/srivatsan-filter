@@ -1,0 +1,13 @@
+h1 {
+font-size: 30px !important;
+color: red !important;
+}
+
+button {
+box-shadow:5px 5px  5px salmon;
+}
+
+canvas{
+border: 2px solid;
+color: red;
+}
